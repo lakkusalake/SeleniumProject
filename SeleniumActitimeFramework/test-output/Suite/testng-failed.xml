@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.actitime.customertest.CustomerTest">
+        <methods>
+          <include name="cerateCustomerTest"/>
+          <include name="configBC"/>
+        </methods>
+      </class> <!-- com.actitime.customertest.CustomerTest -->
+      <class name="com.actitime.customertest.CustomerDesc">
+        <methods>
+          <include name="createCustomerWithDecriptionTest"/>
+        </methods>
+      </class> <!-- com.actitime.customertest.CustomerDesc -->
+      <class name="com.actitime.usertest.UserTest">
+        <methods>
+          <include name="createUSerTest"/>
+        </methods>
+      </class> <!-- com.actitime.usertest.UserTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

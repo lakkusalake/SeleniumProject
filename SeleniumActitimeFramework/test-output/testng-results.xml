@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-29T18:32:20Z" name="Default suite" finished-at="2018-07-29T18:32:20Z" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2018-07-29T18:32:20Z" name="Default test" finished-at="2018-07-29T18:32:20Z" duration-ms="46">
+      <class name="com.actitime.usertest.CartTest">
+        <test-method signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.usertest.CartTest@623a8092]" started-at="2018-07-30T00:02:20Z" name="addToCart" data-provider="getData" finished-at="2018-07-30T00:02:20Z" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sony]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.usertest.CartTest@623a8092]" started-at="2018-07-30T00:02:20Z" name="addToCart" data-provider="getData" finished-at="2018-07-30T00:02:20Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.usertest.CartTest@623a8092]" started-at="2018-07-30T00:02:20Z" name="addToCart" data-provider="getData" finished-at="2018-07-30T00:02:20Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.usertest.CartTest@623a8092]" started-at="2018-07-30T00:02:20Z" name="addToCart" data-provider="getData" finished-at="2018-07-30T00:02:20Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[apple]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="addToCart(java.lang.String, java.lang.String)[pri:0, instance:com.actitime.usertest.CartTest@623a8092]" started-at="2018-07-30T00:02:20Z" name="addToCart" data-provider="getData" finished-at="2018-07-30T00:02:20Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[andriod]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- com.actitime.usertest.CartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
